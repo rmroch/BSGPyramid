@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: bdfff4a45d2351e4e965816d8a907d92
+timeCreated: 1452008667
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BtnAntiUp: {instanceID: 0}
+  - BtnDealCards: {instanceID: 0}
+  - BtnDiscard: {instanceID: 0}
+  - BtnCard1: {instanceID: 0}
+  - BtnCard2: {instanceID: 0}
+  - BtnCard3: {instanceID: 0}
+  - BtnCard4: {instanceID: 0}
+  - BtnCard5: {instanceID: 0}
+  - BtnCard6: {instanceID: 0}
+  - BtnBet: {instanceID: 0}
+  - BtnFold: {instanceID: 0}
+  - BtnCall: {instanceID: 0}
+  - BtnPlayAgain: {instanceID: 0}
+  - BtnRematch: {instanceID: 0}
+  - CardBack: {fileID: 120662, guid: d429e7e4f0acd8c478c108b30174ca6a, type: 2}
+  - CapStone: {fileID: 159786, guid: 8866966f80c6e7a45913deb98a413614, type: 2}
+  - FirstPurple: {fileID: 193188, guid: d4787c110407a0f479078b68a4a223c0, type: 2}
+  - FirstGreen: {fileID: 105502, guid: 8ed81bd0179707548b66f322d110d0f4, type: 2}
+  - FirstOrange: {fileID: 122714, guid: 9d5010e17ca875447981f636264a0105, type: 2}
+  - SecondPurple: {fileID: 198614, guid: a3d67f8bf31417b49a87a3923b1b2441, type: 2}
+  - SecondGreen: {fileID: 137400, guid: 2fa00ac75fd1e3e49be58e746e761512, type: 2}
+  - SecondOrange: {fileID: 197454, guid: c6bf6e828325ec744a4a5e0552830d8b, type: 2}
+  - ThirdPurple: {fileID: 196876, guid: 1e30039eebe5a5940b41ff8643f4d2d2, type: 2}
+  - ThirdGreen: {fileID: 197264, guid: c9b7f75fe332d4f468bb732a399ce344, type: 2}
+  - ThirdOrange: {fileID: 114396, guid: 55f8ab1fca94f92429b4e142159b139e, type: 2}
+  - Selected: {fileID: 132678, guid: 9765b767a64f0a1459c2b8e528925fe7, type: 2}
+  - TxtPotValue: {instanceID: 0}
+  - TxtPlayerHandValue: {instanceID: 0}
+  - TxtGameResult: {instanceID: 0}
+  - TxtBetAmount: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
